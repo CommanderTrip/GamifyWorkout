@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./gamify_workout/Cargo.toml",
+        "./gamify_workout/Cargo.toml",
+        "./gamify_workout/Cargo.toml",
+        "./gamify_workout/Cargo.toml",
+        "./gamify_workout/Cargo.toml"
+    ]
+}
